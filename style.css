@@ -1,0 +1,10 @@
+section {
+  background-color: red;
+  display: flex;
+  justify-content: center;
+}
+
+img {
+  width: 400px;
+  height: 400px;
+}
